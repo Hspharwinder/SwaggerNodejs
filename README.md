@@ -4,10 +4,10 @@ Swagger for nodejs endpoints
 STEPS:
 ----------------------------------
 1. npm i swagger-ui-express <br>
-2. ---> app.js or endpoints.js file <br>
+2. file ---> app.js or endpoints.js <br>
 	const swaggerUi = require('swagger-ui-express'); <br>
 	const swaggerDocument = require('../swagger.json'); <br>
-3.---> app.js or endpoints.js file <br>
+3. file ---> app.js or endpoints.js  <br>
   // user Apis  <br>
   app.get('/user', user.allUsers);   // endpoints/api which you have created <br>
 	// swagger <br>
