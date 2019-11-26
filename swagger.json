@@ -1,0 +1,30 @@
+{ 
+   "openapi":"3.0.0",
+   "info":{ 
+      "version":"1.0.0",
+      "title":"Music Stream",
+      "description":"Music Stream Api in Nodejs using swagger",
+      "license":{ 
+         "name":"MIT",
+         "url":"https://opensource.org/licenses/MIT"
+      }
+   },
+   "paths":{ 
+      "/user":{ 
+         "get":{ 
+            "tags":[ 
+               "Users"
+            ],
+            "summary":"Get all users",
+            "responses":{ 
+               "200":{ 
+                  "description":"OK",
+                  "schema":{ 
+
+                  }
+               }
+            }
+         }
+      }
+   }
+}
