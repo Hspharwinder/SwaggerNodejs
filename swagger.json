@@ -5,8 +5,8 @@
       "title":"Music Stream",
       "description":"Music Stream Api in Nodejs using swagger",
       "license":{ 
-         "name":"MIT",
-         "url":"https://opensource.org/licenses/MIT"
+         "name":"HSP",
+         "url":"https://github.com/Hspharwinder?tab=repositories"
       }
    },
    "paths":{ 
