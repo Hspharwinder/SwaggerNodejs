@@ -17,3 +17,4 @@ STEPS:
 
 5. run in browser  http://localhost:54358/swagger
 6. creating swagger api step by step https://app.swaggerhub.com/help/tutorials/getting-started#create-api
+	http://demo.trms.com/CarouselAPI/swagger/ui/index#/
